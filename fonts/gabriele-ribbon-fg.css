@@ -3,7 +3,7 @@
     src: url('https://cdn.staticdelivr.com/gh/guillegmm/assets/main/fonts/GabrieleBlackRibbonFG.woff2') format('woff2'),
         url('https://cdn.staticdelivr.com/gh/guillegmm/assets/main/fonts/GabrieleBlackRibbonFG.woff') format('woff');
     font-weight: 700;
-    font-style: bold;
+    font-style: normal;
     font-display: swap;
 }
 
@@ -11,7 +11,7 @@
     font-family: 'Gabriele Ribbon FG';
     src: url('https://cdn.staticdelivr.com/gh/guillegmm/assets/main/fonts/GabrieleDarkRibbonFG.woff2') format('woff2'),
         url('https://cdn.staticdelivr.com/gh/guillegmm/assets/main/fonts/GabrieleDarkRibbonFG.woff') format('woff');
-    font-weight: 500;
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
@@ -21,7 +21,7 @@
     src: url('https://cdn.staticdelivr.com/gh/guillegmm/assets/main/fonts/GabrieleLightRibbonFG.woff2') format('woff2'),
         url('https://github.com/guillegmm/assets/blob/main/fonts/GabrieleLightRibbonFG.woff') format('woff');
     font-weight: 300;
-    font-style: light;
+    font-style: normal;
     font-display: swap;
 }
 
